@@ -1,4 +1,4 @@
-Kali Nethunter Xiaomi Mi Note 10 Lite
+Kali Nethunter Xiaomi Mi Note 10 Lite (toco)
 
 Tested on [Evo X](https://forum.xda-developers.com/t/rom-11-toco-unofficial-evolution-x-5-6-1-april-security-patch-23-04-21.4203473/)
 1. Custom recovery tested : All
