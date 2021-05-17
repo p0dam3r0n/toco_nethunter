@@ -8,3 +8,4 @@ Tested on [Evo X](https://forum.xda-developers.com/t/rom-11-toco-unofficial-evol
 
 
 Happy testing 
+[Donate](https://www.paypal.com/donate?hosted_button_id=VMMLR8LJG4NW4)
