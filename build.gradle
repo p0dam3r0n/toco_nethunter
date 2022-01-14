@@ -1,0 +1,9 @@
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+dependencies {
+	        implementation 'com.github.p0dam3r0n:toco_nethunter:Tag'
+	}
